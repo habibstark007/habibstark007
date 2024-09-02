@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning MERN Stack Development
+- 📫 How to reach me: starklesstech@gmail.com
+- ⚡ Fun fact: 
 <!--
 **habibstark007/habibstark007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
